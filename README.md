@@ -1,5 +1,5 @@
 KSP_NERVA
-=========
+==========================================================================================================================
 
 LVN to NERVA conversion for KSP
 
@@ -26,3 +26,8 @@ This will overwrite the current "nuclearEngine" containing the code for the orig
 I will hopefully create a stand alone part sometime in the future to allow for both the LV-N and NERVA to exist at the same time. 
 
 Launch KSP, and your new NERVA engine should be in the build menu!
+
+DISCLAIMER:
+==========================================================================================================================
+
+I do not own KSP, LV-N, NERVA, or any other term associated with this modification. All rights to terms belong to their respective owners.
